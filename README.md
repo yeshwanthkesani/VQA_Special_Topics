@@ -1,6 +1,7 @@
 # Project Overview
 
-We got our dataset from Yeshiva University’s deep learning course and creating an advanced multimodal VQA model are the two goals of this work, which falls under the category of Visual Question Answering (VQA). Natural language processing and computer vision groups have both shown a great deal of interest in Visual Question Answering (VQA), in part because it provides insight into the connections between two crucial sources of data. Existing datasets and the models constructed from them have concentrated on answering questions that can be resolved by analyzing the query and image separately. Each notebook is dedicated to a specific model or a variant of the Pix2Struct and Blip-Clip models.
+The purpose of this study is to broaden the scope of VQA to include complicated educational topics. In order to do
+this, we investigated a number of models and chose the best performing model that was customized for our particular dataset. We got our dataset from Yeshiva University’s deep learning course and creating an advanced multimodal VQA model are the two goals of this work, which falls under the category of Visual Question Answering (VQA). Natural language processing and computer vision groups have both shown a great deal of interest in Visual Question Answering (VQA), in part because it provides insight into the connections between two crucial sources of data. Existing datasets and the models constructed from them have concentrated on answering questions that can be resolved by analyzing the query and image separately. Each notebook is dedicated to a specific model or a variant of the Pix2Struct and Blip-Clip models.
 
 ## Notebooks Description
 
