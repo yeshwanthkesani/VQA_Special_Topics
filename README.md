@@ -33,6 +33,10 @@ To run these notebooks:
 Our Dataset consists of instructions, response, category, week, page, context.
 ![image](https://github.com/yeshwanthkesani/VQA_Special_Topics/assets/150316790/892573ec-0de8-41b2-ba73-2d9e789e0cfc)
 
+## Dataset Distribution
+![image](https://github.com/yeshwanthkesani/VQA_Special_Topics/assets/150316790/62e33b05-a455-4d6c-a5d1-176071f2d312)
+
+
 ## Before Training
 ![image](https://github.com/yeshwanthkesani/VQA_Special_Topics/assets/150316790/a9d6b22a-62a7-4e01-adf7-4ccb1a812533)
 
