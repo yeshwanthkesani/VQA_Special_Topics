@@ -31,10 +31,19 @@ To run these notebooks:
 
 ## Example Dataset
 Our Dataset consists of instructions, response, category, week, page, context.
+![image](https://github.com/yeshwanthkesani/VQA_Special_Topics/assets/150316790/b77f69c1-6d3f-48b0-8432-f2c5f8914b7c)
+
 ![image](https://github.com/yeshwanthkesani/VQA_Special_Topics/assets/150316790/892573ec-0de8-41b2-ba73-2d9e789e0cfc)
 
 ## Dataset Distribution
 ![image](https://github.com/yeshwanthkesani/VQA_Special_Topics/assets/150316790/62e33b05-a455-4d6c-a5d1-176071f2d312)
+
+## Dataset Categories
+
+![image](https://github.com/yeshwanthkesani/VQA_Special_Topics/assets/150316790/d2d58f7d-980c-4a85-bed1-af3e840ee271)
+![image](https://github.com/yeshwanthkesani/VQA_Special_Topics/assets/150316790/30194e68-6327-44ef-bcc6-5d804104e51f)
+
+
 
 
 ## Before Training
