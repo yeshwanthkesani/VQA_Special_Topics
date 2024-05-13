@@ -1,6 +1,6 @@
 # Project Overview
 
-This repository contains a series of Jupyter notebooks developed for experimenting with different models related to visual question answering (VQA) systems. Each notebook is dedicated to a specific model or a variant of the Pix2Struct model.
+We got our dataset from Yeshiva University’s deep learning course and creating an advanced multimodal VQA model are the two goals of this work, which falls under the category of Visual Question Answering (VQA). Natural language processing and computer vision groups have both shown a great deal of interest in Visual Question Answering (VQA), in part because it provides insight into the connections between two crucial sources of data. Existing datasets and the models constructed from them have concentrated on answering questions that can be resolved by analyzing the query and image separately. Each notebook is dedicated to a specific model or a variant of the Pix2Struct and Blip-Clip models.
 
 ## Notebooks Description
 
@@ -27,3 +27,16 @@ This repository contains a series of Jupyter notebooks developed for experimenti
 To run these notebooks:
 1. Ensure that Python 3.x is installed on your machine.
 2. Install Jupyter Notebook or JupyterLab:
+
+
+## Example Dataset
+Our Dataset consists of instructions, response, category, week, page, context.
+![image](https://github.com/yeshwanthkesani/VQA_Special_Topics/assets/150316790/892573ec-0de8-41b2-ba73-2d9e789e0cfc)
+
+## Before Training
+![image](https://github.com/yeshwanthkesani/VQA_Special_Topics/assets/150316790/a9d6b22a-62a7-4e01-adf7-4ccb1a812533)
+
+## After Training 
+![image](https://github.com/yeshwanthkesani/VQA_Special_Topics/assets/150316790/fbfe65a0-d2f8-4fa3-baa5-081504d552b3)
+
+
